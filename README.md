@@ -11,7 +11,7 @@
 - [NextAuth](https://next-auth.js.org/) = Authentication
 
 
-These will be used in accordancve with each other as to bring the best of all therr features.
+These will be used in accordancve with each other as to bring the best of all there features.
 
 
-- Use this [repo]() with both the techologus intergrated and the proper developmmet enviroment set ip
+- Use this [# repo]() with both the techologus intergrated and the proper developmmet enviroment set ip
